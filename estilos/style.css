@@ -1,0 +1,18 @@
+a {
+    color: antiquewhite;
+    padding: 30%;
+    border-color: black;
+    border: solid;
+    border-width: 8px;
+    border-radius: 50px;
+    background-color: rgb(232, 204, 204);
+}
+a:hover{font-size: 50px;; color: aliceblue; transition: 500ms;
+
+}
+body {
+    background-color: brown;;
+}
+h1 {
+   color: antiquewhite;
+}
